@@ -12,12 +12,10 @@
 실제 물체를 집어보는 **엔드 투 엔드 시스템**을 포함합니다.
 
 구성:
-
 1. Colab에서 학습 및 CSV/라벨 전처리 (`colab_1grasp.ipynb`)
 2. 로컬 Jupyter에서 웹캠 + PyTorch 모델 + 아두이노 시리얼 제어 (`githubsubmit/1grasp.ipynb`)
 3. 아두이노에서 서보 모터 제어 (`githubsubmit/arduino/1grasp.ino`)
 
----
 
 2. 폴더 및 파일 구조
 
