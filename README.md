@@ -18,11 +18,11 @@
 3. 아두이노에서 서보 모터 제어 (`githubsubmit/arduino/1grasp.ino`)
 
 ---
-
-## 2. 폴더 및 파일 구조
-
 ```text
 .
+## 2. 폴더 및 파일 구조
+
+
 ├─ colab_1grasp.ipynb              # Colab용 학습/전처리 노트북
 ├─ Re_cornell_class_labels_16.csv  # Cornell 이미지별 16-class 라벨 CSV
 ├─ githubsubmit/
