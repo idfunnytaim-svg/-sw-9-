@@ -19,8 +19,7 @@
 
 ---
 ```text
-.
-## 
+
 
 2. 폴더 및 파일 구조
 ├─ colab_1grasp.ipynb              # Colab용 학습/전처리 노트북
@@ -31,7 +30,7 @@
 │       └─ 1grasp.ino              # 아두이노 서보 제어 코드
 └─ shared_alexnet_grasp.pth        # 학습된 모델 가중치 (아래 3번 링크 참고)
 
-## 3. 모델 가중치 다운로드
+3. 모델 가중치 다운로드
 
 학습된 Shared AlexNet + Grasp 모델 가중치 파일:
 
@@ -42,7 +41,7 @@ https://drive.google.com/file/d/1nkgaymh36XQ_nHE7BLBczche0KVdfAqB/view?usp=shari
 
 로컬에서 실행할 때는 위 파일을 다운로드해서,
 githubsubmit/1grasp.ipynb 안의 CKPT_PATH를 자신의 경로로 설정하면 됩니다.
-## 4. 실행 방법
+4. 실행 방법
 4.1. Colab에서 학습 (선택)
 
 colab_1grasp.ipynb를 Colab에서 연다.
