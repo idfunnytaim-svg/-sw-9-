@@ -1,6 +1,5 @@
 고려대 SW아카데미 9조 – Cornell Grasp + Shared AlexNet + Arduino Gripper
-'''text
-'
+
 1. 프로젝트 개요
 
 이 저장소는 **Cornell Grasp Dataset**을 사용해
