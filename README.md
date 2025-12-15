@@ -91,5 +91,5 @@ OpenCV 창이 뜨면 웹캠에 물체를 보여주고,
 
 원본 Cornell Grasp Dataset은 라이선스 문제로 이 저장소에 포함하지 않았습니다.
 
-공식 Cornell Grasp Dataset 페이지에서 직접 다운로드 후,
+공식 Cornell Grasp Dataset은 https://www.kaggle.com/datasets/oneoneliu/cornell-grasp 페이지에서 직접 다운로드 후,
 Colab 노트북(colab_1grasp.ipynb)의 ARCHIVE_ROOT 경로에 맞게 배치하여 사용합니다.
